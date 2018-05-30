@@ -14,6 +14,7 @@ public class App_ver02_by_mury
             System.out.println( "................" );
             System.out.println( "................" );
             System.out.println( "................" );
+            System.out.println( "................" );
         }
 
     }
