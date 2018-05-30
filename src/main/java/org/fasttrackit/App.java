@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "The Sound of Silence" );
-        System.out.println( "Hello darkness my old friend..." );
+        System.out.println( ".........." );
         System.out.println( "I've come to talk to you again..." );
         System.out.println( "Because a vision softly creeping" );
         System.out.println( ".........................." );
