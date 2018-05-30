@@ -14,5 +14,8 @@ public class App
         System.out.println( "I've come to talk to you again..." );
         System.out.println( "............." );
         System.out.println( ".........................." );
+        System.out.println( ".........................." );
+        System.out.println( ".........................." );
+        System.out.println( ".........................." );
     }
 }
