@@ -1,4 +1,4 @@
-package org.fasttrackid;
+package org.fasttrackit;
 
 public class Testing {
 }
